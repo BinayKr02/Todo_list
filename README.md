@@ -12,5 +12,4 @@ Todo App Snap <br />
 -Hosting <br />
 -Realtime Database <br />
 
-Credit: Clever Programmer <br />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
