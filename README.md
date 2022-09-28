@@ -8,7 +8,6 @@ Todo App Snap <br />
 -React Hooks <br />
 ✔️Material Ui for designing <br />
 ✔️Firebase <br />
--Hosting <br />
 -Realtime Database <br />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
