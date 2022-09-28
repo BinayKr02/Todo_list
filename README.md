@@ -1,5 +1,4 @@
 Todo App Snap <br />
-✅Hosted Link:-
 
 ![alt text](./todo_img.png)
 
